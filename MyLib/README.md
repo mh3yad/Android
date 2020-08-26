@@ -17,3 +17,6 @@
 [logo]: 1.png
 [logo]: 2.png
 [logo]: 3.png
+![alt text](1.png "static page")
+![alt text](2.png "static page")
+![alt text](3.png "static page")
