@@ -17,5 +17,11 @@
 ---
 
 ![alt text](1.png "static page")
+
+---
+
 ![alt text](2.png "static page")
+
+---
+
 ![alt text](3.png "static page")
