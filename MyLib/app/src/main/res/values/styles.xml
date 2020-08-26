@@ -1,0 +1,16 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.MaterialComponents.Light">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:windowAnimationStyle">@style/CutomAnim</item>
+    </style>
+    <style name="CutomAnim" parent="@android:style/Animation.Activity">
+        <item name="android:activityOpenEnterAnimation">@anim/slide_in</item>
+        <item name="android:activityOpenExitAnimation">@anim/sile_out</item>
+        <item name="android:activityCloseEnterAnimation">@anim/sile_out</item>
+        <item name="android:activityCloseExitAnimation">@anim/slide_in</item>
+    </style>
+</resources>
